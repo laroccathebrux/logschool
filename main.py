@@ -1,4 +1,3 @@
-from distutils.log import error
 import requests
 import configparser
 import pandas as pd
