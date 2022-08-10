@@ -21,3 +21,11 @@ csv/logschool_signature.csv
 csv/logschool_student.csv
 csv/logschool_tests.csv
 csv/logschool_userpermission.csv
+dictMaster.txt
+csv/logschool_certificate.csv
+csv/logschool_questions.csv
+csv/logschool_groupstudent.csv
+csv/logschool_groupcourse.csv
+csv/logschool_plancourses.csv
+csv/logschool_access.csv
+dictAPITest.txt
